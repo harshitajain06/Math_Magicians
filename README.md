@@ -1,86 +1,127 @@
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
 
 <div align="center">
-  <h1><b>Math Magicians</b></h1>
+
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
 
 </div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project">Math Magicians</a>
+# 📖 Math Magicians 🪄🔮🧝 <a name="about-project"></a>
 
-**[Leaderboard List]** is a React project to set up the environment and tools needed to develop a React application, using webpack and ES6 features, notably modules.
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://nodejs.org/">Node.js</a></li>
-  </ul>
-</details>
+> It is a Calculator App made with React.
 
+## 🛠 Built With <a name="built-with"></a>
 
+>HTML
+>Javascript
+>CSS
+>Webpack
+>React
+>Tailwind
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[JavaScript project for the Math Magicians app, using webpack and ES6 features, notably modules]**
+> Describe between 1-3 key features of the application.
 
+- Es6
+- Reliable
+- Modern
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](http://www.github.com/harshitajain06/Math_Magicians/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+> To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-- Webpack Setup
-- Visual Studio Code
-- React Setup
 
+- Internet
+- Code Editor or IDE
+- Browser
 
 ### Setup
 
-Clone this repository to your desired folder:
-Example command:
-
-```sh
- cd Math_Magicians
- git clone https://github.com/harshitajain06/Math_Magicians.git
-```
- 
- 
-
+Clone this repository to your desired folder
 
 ### Install
 
-Install this project with:
-```sh
-cd Math_Magicians
-npm install
-npm run build
-npm srart
-```
+Nothing required to install.
 
-
-
-### Usage
-
-To run the project, execute the following command:
-npm start
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Harshita Jain**
+> All of the collaborators of this project.
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 Harshita jain
+
+- GitHub: [@harshitajain06](https://github.com/harshitajain06)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,11 +129,41 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Make Calculator App using React]**
+> Describe 1 - 3 features you will add to the project.
 
+- Use Tailwind
+- Use OOPS
+- Modern Style Design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Give a star to show support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank...
+
+- Google
+- Stackoverflow
+- Myself
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
