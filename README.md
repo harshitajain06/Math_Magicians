@@ -108,8 +108,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
- cd Math_Magicians
  git clone https://github.com/harshitajain06/Math_Magicians.git
+ cd Math_Magicians
 ```
  
  
