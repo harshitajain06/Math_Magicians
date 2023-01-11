@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // eslint-disable-next-line react/prefer-stateless-function
-export default class calculator extends Component {
+export default class Calculator extends Component {
   render() {
     return (
       <div className="h-[100vh] flex justify-center items-center">
