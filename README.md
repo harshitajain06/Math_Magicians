@@ -105,11 +105,24 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder
+Clone this repository to your desired folder:
+
+```sh
+ cd Math_Magicians
+ git clone https://github.com/harshitajain06/Math_Magicians.git
+```
+ 
+ 
+
 
 ### Install
 
-Nothing required to install.
+Install this project with:
+```sh
+cd Math_Magicians
+npm install( Need Node.js to run npm command)
+npm run start
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
