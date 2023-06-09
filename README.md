@@ -85,7 +85,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](http://www.github.com/harshitajain06/Math_Magicians/)
+- [Live Demo Link](https://math-magician-nttj.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
